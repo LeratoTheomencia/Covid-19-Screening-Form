@@ -1,0 +1,98 @@
+body{
+  background: linear-gradient(rgb(150, 44, 44), rgb(228, 136, 138));
+  padding: 10px;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  
+}
+
+.heading{
+  text-align: center;
+  justify-content: center;
+  font-family: serif;
+  border-radius: 80px;
+  color: rgb(150, 38, 129);
+  font-weight: bold;
+  background-color: rgb(218, 142, 142);
+ 
+  
+  
+}
+
+
+
+.heading h6{
+  font-family: Arial, sans-serif;
+  justify-content: center;
+  
+}
+.card-body{
+  font-weight:bold;
+  color:rgb(32, 5, 5);
+  font-family: Arial;
+  background-color: rgb(165, 161, 161);
+  justify-content: center;
+}
+
+.input {
+  border-radius: 80px;
+  color:rgb(104, 100, 100);
+  background: blue,
+  
+
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  justify-content: center;
+}
+
+.container {
+  padding-top: 30px;
+  width: 300px;
+  margin: auto;
+}
+
+.input {
+  padding: 5px 15px;
+  width: 300px;
+}
+
+.user-list {
+  margin-top: 30px;
+  justify-content: center;
+}
+
+.user {
+  list-style: none;
+  margin: 10px 0;
+  padding: 10px;
+  background: #eee;
+  display: absolute;
+  justify-content: space-between;
+}
+
+.user-id {
+  color: red;
+  margin-right: 20px;
+  justify-content: center;
+}
+
+.user-name {
+  color: blue;
+  justify-content: center;
+}
+
+.user-age {
+  margin-left: auto;
+  justify-content: center;
+}
+
+
